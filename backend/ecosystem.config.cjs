@@ -7,7 +7,7 @@
 module.exports = {
   apps: [
     {
-      name: 'gym-backend',
+      name: 'gymmanagement',
       script: 'src/server.js',
       cwd: __dirname,
       instances: 1, // keep 1: Socket.io notifications are held in memory

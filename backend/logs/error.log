@@ -1,0 +1,1066 @@
+2026-09-29T11:02:01: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:01:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:01:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:01:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:01:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:01:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:01:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:01:   code: 'EADDRINUSE',
+2026-09-29T11:02:01:   errno: -4091,
+2026-09-29T11:02:01:   syscall: 'listen',
+2026-09-29T11:02:01:   address: '::',
+2026-09-29T11:02:01:   port: 5000
+2026-09-29T11:02:01: }
+2026-09-29T11:02:03: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:03:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:03:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:03:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:03:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:03:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:03:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:03:   code: 'EADDRINUSE',
+2026-09-29T11:02:03:   errno: -4091,
+2026-09-29T11:02:03:   syscall: 'listen',
+2026-09-29T11:02:03:   address: '::',
+2026-09-29T11:02:03:   port: 5000
+2026-09-29T11:02:03: }
+2026-09-29T11:02:05: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:05:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:05:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:05:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:05:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:05:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:05:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:05:   code: 'EADDRINUSE',
+2026-09-29T11:02:05:   errno: -4091,
+2026-09-29T11:02:05:   syscall: 'listen',
+2026-09-29T11:02:05:   address: '::',
+2026-09-29T11:02:05:   port: 5000
+2026-09-29T11:02:05: }
+2026-09-29T11:02:07: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:07:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:07:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:07:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:07:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:07:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:07:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:07:   code: 'EADDRINUSE',
+2026-09-29T11:02:07:   errno: -4091,
+2026-09-29T11:02:07:   syscall: 'listen',
+2026-09-29T11:02:07:   address: '::',
+2026-09-29T11:02:07:   port: 5000
+2026-09-29T11:02:07: }
+2026-09-29T11:02:08: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:08:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:08:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:08:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:08:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:08:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:08:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:08:   code: 'EADDRINUSE',
+2026-09-29T11:02:08:   errno: -4091,
+2026-09-29T11:02:08:   syscall: 'listen',
+2026-09-29T11:02:08:   address: '::',
+2026-09-29T11:02:08:   port: 5000
+2026-09-29T11:02:08: }
+2026-09-29T11:02:09: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:09:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:09:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:09:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:09:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:09:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:09:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:09:   code: 'EADDRINUSE',
+2026-09-29T11:02:09:   errno: -4091,
+2026-09-29T11:02:09:   syscall: 'listen',
+2026-09-29T11:02:09:   address: '::',
+2026-09-29T11:02:09:   port: 5000
+2026-09-29T11:02:09: }
+2026-09-29T11:02:10: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:10:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:10:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:10:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:10:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:10:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:10:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:10:   code: 'EADDRINUSE',
+2026-09-29T11:02:10:   errno: -4091,
+2026-09-29T11:02:10:   syscall: 'listen',
+2026-09-29T11:02:10:   address: '::',
+2026-09-29T11:02:10:   port: 5000
+2026-09-29T11:02:10: }
+2026-09-29T11:02:11: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:11:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:11:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:11:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:11:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:11:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:11:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:11:   code: 'EADDRINUSE',
+2026-09-29T11:02:11:   errno: -4091,
+2026-09-29T11:02:11:   syscall: 'listen',
+2026-09-29T11:02:11:   address: '::',
+2026-09-29T11:02:11:   port: 5000
+2026-09-29T11:02:11: }
+2026-09-29T11:02:12: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:12:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:12:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:12:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:12:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:12:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:12:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:12:   code: 'EADDRINUSE',
+2026-09-29T11:02:12:   errno: -4091,
+2026-09-29T11:02:12:   syscall: 'listen',
+2026-09-29T11:02:12:   address: '::',
+2026-09-29T11:02:12:   port: 5000
+2026-09-29T11:02:12: }
+2026-09-29T11:02:13: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:13:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:13:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:13:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:13:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:13:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:13:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:13:   code: 'EADDRINUSE',
+2026-09-29T11:02:13:   errno: -4091,
+2026-09-29T11:02:13:   syscall: 'listen',
+2026-09-29T11:02:13:   address: '::',
+2026-09-29T11:02:13:   port: 5000
+2026-09-29T11:02:13: }
+2026-09-29T11:02:15: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:15:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:15:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:15:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:15:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:15:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:15:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:15:   code: 'EADDRINUSE',
+2026-09-29T11:02:15:   errno: -4091,
+2026-09-29T11:02:15:   syscall: 'listen',
+2026-09-29T11:02:15:   address: '::',
+2026-09-29T11:02:15:   port: 5000
+2026-09-29T11:02:15: }
+2026-09-29T11:02:16: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:16:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:16:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:16:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:16:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:16:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:16:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:16:   code: 'EADDRINUSE',
+2026-09-29T11:02:16:   errno: -4091,
+2026-09-29T11:02:16:   syscall: 'listen',
+2026-09-29T11:02:16:   address: '::',
+2026-09-29T11:02:16:   port: 5000
+2026-09-29T11:02:16: }
+2026-09-29T11:02:17: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:17:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:17:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:17:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:17:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:17:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:17:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:17:   code: 'EADDRINUSE',
+2026-09-29T11:02:17:   errno: -4091,
+2026-09-29T11:02:17:   syscall: 'listen',
+2026-09-29T11:02:17:   address: '::',
+2026-09-29T11:02:17:   port: 5000
+2026-09-29T11:02:17: }
+2026-09-29T11:02:19: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:19:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:19:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:19:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:19:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:19:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:19:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:19:   code: 'EADDRINUSE',
+2026-09-29T11:02:19:   errno: -4091,
+2026-09-29T11:02:19:   syscall: 'listen',
+2026-09-29T11:02:19:   address: '::',
+2026-09-29T11:02:19:   port: 5000
+2026-09-29T11:02:19: }
+2026-09-29T11:02:20: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:20:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:20:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:20:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:20:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:20:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:20:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:20:   code: 'EADDRINUSE',
+2026-09-29T11:02:20:   errno: -4091,
+2026-09-29T11:02:20:   syscall: 'listen',
+2026-09-29T11:02:20:   address: '::',
+2026-09-29T11:02:20:   port: 5000
+2026-09-29T11:02:20: }
+2026-09-29T11:02:21: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:21:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:21:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:21:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:21:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:21:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:21:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:21:   code: 'EADDRINUSE',
+2026-09-29T11:02:21:   errno: -4091,
+2026-09-29T11:02:21:   syscall: 'listen',
+2026-09-29T11:02:21:   address: '::',
+2026-09-29T11:02:21:   port: 5000
+2026-09-29T11:02:21: }
+2026-09-29T11:02:22: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:22:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:22:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:22:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:22:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:22:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:22:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:22:   code: 'EADDRINUSE',
+2026-09-29T11:02:22:   errno: -4091,
+2026-09-29T11:02:22:   syscall: 'listen',
+2026-09-29T11:02:22:   address: '::',
+2026-09-29T11:02:22:   port: 5000
+2026-09-29T11:02:22: }
+2026-09-29T11:02:23: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:23:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:23:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:23:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:23:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:23:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:23:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:23:   code: 'EADDRINUSE',
+2026-09-29T11:02:23:   errno: -4091,
+2026-09-29T11:02:23:   syscall: 'listen',
+2026-09-29T11:02:23:   address: '::',
+2026-09-29T11:02:23:   port: 5000
+2026-09-29T11:02:23: }
+2026-09-29T11:02:24: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:24:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:24:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:24:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:24:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:24:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:24:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:24:   code: 'EADDRINUSE',
+2026-09-29T11:02:24:   errno: -4091,
+2026-09-29T11:02:24:   syscall: 'listen',
+2026-09-29T11:02:24:   address: '::',
+2026-09-29T11:02:24:   port: 5000
+2026-09-29T11:02:24: }
+2026-09-29T11:02:25: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:25:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:25:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:25:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:25:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:25:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:25:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:25:   code: 'EADDRINUSE',
+2026-09-29T11:02:25:   errno: -4091,
+2026-09-29T11:02:25:   syscall: 'listen',
+2026-09-29T11:02:25:   address: '::',
+2026-09-29T11:02:25:   port: 5000
+2026-09-29T11:02:25: }
+2026-09-29T11:02:27: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:27:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:27:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:27:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:27:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:27:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:27:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:27:   code: 'EADDRINUSE',
+2026-09-29T11:02:27:   errno: -4091,
+2026-09-29T11:02:27:   syscall: 'listen',
+2026-09-29T11:02:27:   address: '::',
+2026-09-29T11:02:27:   port: 5000
+2026-09-29T11:02:27: }
+2026-09-29T11:02:28: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:28:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:28:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:28:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:28:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:28:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:28:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:28:   code: 'EADDRINUSE',
+2026-09-29T11:02:28:   errno: -4091,
+2026-09-29T11:02:28:   syscall: 'listen',
+2026-09-29T11:02:28:   address: '::',
+2026-09-29T11:02:28:   port: 5000
+2026-09-29T11:02:28: }
+2026-09-29T11:02:29: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:29:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:29:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:29:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:29:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:29:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:29:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:29:   code: 'EADDRINUSE',
+2026-09-29T11:02:29:   errno: -4091,
+2026-09-29T11:02:29:   syscall: 'listen',
+2026-09-29T11:02:29:   address: '::',
+2026-09-29T11:02:29:   port: 5000
+2026-09-29T11:02:29: }
+2026-09-29T11:02:31: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:31:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:31:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:31:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:31:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:31:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:31:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:31:   code: 'EADDRINUSE',
+2026-09-29T11:02:31:   errno: -4091,
+2026-09-29T11:02:31:   syscall: 'listen',
+2026-09-29T11:02:31:   address: '::',
+2026-09-29T11:02:31:   port: 5000
+2026-09-29T11:02:31: }
+2026-09-29T11:02:32: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:32:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:32:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:32:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:32:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:32:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:32:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:32:   code: 'EADDRINUSE',
+2026-09-29T11:02:32:   errno: -4091,
+2026-09-29T11:02:32:   syscall: 'listen',
+2026-09-29T11:02:32:   address: '::',
+2026-09-29T11:02:32:   port: 5000
+2026-09-29T11:02:32: }
+2026-09-29T11:02:33: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:33:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:33:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:33:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:33:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:33:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:33:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:33:   code: 'EADDRINUSE',
+2026-09-29T11:02:33:   errno: -4091,
+2026-09-29T11:02:33:   syscall: 'listen',
+2026-09-29T11:02:33:   address: '::',
+2026-09-29T11:02:33:   port: 5000
+2026-09-29T11:02:33: }
+2026-09-29T11:02:35: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:35:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:35:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:35:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:35:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:35:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:35:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:35:   code: 'EADDRINUSE',
+2026-09-29T11:02:35:   errno: -4091,
+2026-09-29T11:02:35:   syscall: 'listen',
+2026-09-29T11:02:35:   address: '::',
+2026-09-29T11:02:35:   port: 5000
+2026-09-29T11:02:35: }
+2026-09-29T11:02:36: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:36:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:36:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:36:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:36:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:36:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:36:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:36:   code: 'EADDRINUSE',
+2026-09-29T11:02:36:   errno: -4091,
+2026-09-29T11:02:36:   syscall: 'listen',
+2026-09-29T11:02:36:   address: '::',
+2026-09-29T11:02:36:   port: 5000
+2026-09-29T11:02:36: }
+2026-09-29T11:02:37: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:37:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:37:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:37:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:37:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:37:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:37:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:37:   code: 'EADDRINUSE',
+2026-09-29T11:02:37:   errno: -4091,
+2026-09-29T11:02:37:   syscall: 'listen',
+2026-09-29T11:02:37:   address: '::',
+2026-09-29T11:02:37:   port: 5000
+2026-09-29T11:02:37: }
+2026-09-29T11:02:39: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:39:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:39:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:39:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:39:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:39:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:39:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:39:   code: 'EADDRINUSE',
+2026-09-29T11:02:39:   errno: -4091,
+2026-09-29T11:02:39:   syscall: 'listen',
+2026-09-29T11:02:39:   address: '::',
+2026-09-29T11:02:39:   port: 5000
+2026-09-29T11:02:39: }
+2026-09-29T11:02:40: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:40:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:40:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:40:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:40:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:40:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:40:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:40:   code: 'EADDRINUSE',
+2026-09-29T11:02:40:   errno: -4091,
+2026-09-29T11:02:40:   syscall: 'listen',
+2026-09-29T11:02:40:   address: '::',
+2026-09-29T11:02:40:   port: 5000
+2026-09-29T11:02:40: }
+2026-09-29T11:02:41: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:41:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:41:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:41:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:41:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:41:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:41:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:41:   code: 'EADDRINUSE',
+2026-09-29T11:02:41:   errno: -4091,
+2026-09-29T11:02:41:   syscall: 'listen',
+2026-09-29T11:02:41:   address: '::',
+2026-09-29T11:02:41:   port: 5000
+2026-09-29T11:02:41: }
+2026-09-29T11:02:43: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:43:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:43:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:43:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:43:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:43:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:43:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:43:   code: 'EADDRINUSE',
+2026-09-29T11:02:43:   errno: -4091,
+2026-09-29T11:02:43:   syscall: 'listen',
+2026-09-29T11:02:43:   address: '::',
+2026-09-29T11:02:43:   port: 5000
+2026-09-29T11:02:43: }
+2026-09-29T11:02:44: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:44:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:44:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:44:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:44:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:44:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:44:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:44:   code: 'EADDRINUSE',
+2026-09-29T11:02:44:   errno: -4091,
+2026-09-29T11:02:44:   syscall: 'listen',
+2026-09-29T11:02:44:   address: '::',
+2026-09-29T11:02:44:   port: 5000
+2026-09-29T11:02:44: }
+2026-09-29T11:02:45: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:45:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:45:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:45:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:45:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:45:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:45:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:45:   code: 'EADDRINUSE',
+2026-09-29T11:02:45:   errno: -4091,
+2026-09-29T11:02:45:   syscall: 'listen',
+2026-09-29T11:02:45:   address: '::',
+2026-09-29T11:02:45:   port: 5000
+2026-09-29T11:02:45: }
+2026-09-29T11:02:46: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:46:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:46:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:46:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:46:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:46:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:46:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:46:   code: 'EADDRINUSE',
+2026-09-29T11:02:46:   errno: -4091,
+2026-09-29T11:02:46:   syscall: 'listen',
+2026-09-29T11:02:46:   address: '::',
+2026-09-29T11:02:46:   port: 5000
+2026-09-29T11:02:46: }
+2026-09-29T11:02:47: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:47:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:47:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:47:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:47:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:47:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:47:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:47:   code: 'EADDRINUSE',
+2026-09-29T11:02:47:   errno: -4091,
+2026-09-29T11:02:47:   syscall: 'listen',
+2026-09-29T11:02:47:   address: '::',
+2026-09-29T11:02:47:   port: 5000
+2026-09-29T11:02:47: }
+2026-09-29T11:02:49: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:49:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:49:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:49:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:49:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:49:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:49:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:49:   code: 'EADDRINUSE',
+2026-09-29T11:02:49:   errno: -4091,
+2026-09-29T11:02:49:   syscall: 'listen',
+2026-09-29T11:02:49:   address: '::',
+2026-09-29T11:02:49:   port: 5000
+2026-09-29T11:02:49: }
+2026-09-29T11:02:50: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:50:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:50:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:50:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:50:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:50:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:50:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:50:   code: 'EADDRINUSE',
+2026-09-29T11:02:50:   errno: -4091,
+2026-09-29T11:02:50:   syscall: 'listen',
+2026-09-29T11:02:50:   address: '::',
+2026-09-29T11:02:50:   port: 5000
+2026-09-29T11:02:50: }
+2026-09-29T11:02:52: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:52:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:52:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:52:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:52:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:52:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:52:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:52:   code: 'EADDRINUSE',
+2026-09-29T11:02:52:   errno: -4091,
+2026-09-29T11:02:52:   syscall: 'listen',
+2026-09-29T11:02:52:   address: '::',
+2026-09-29T11:02:52:   port: 5000
+2026-09-29T11:02:52: }
+2026-09-29T11:02:53: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:53:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:53:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:53:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:53:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:53:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:53:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:53:   code: 'EADDRINUSE',
+2026-09-29T11:02:53:   errno: -4091,
+2026-09-29T11:02:53:   syscall: 'listen',
+2026-09-29T11:02:53:   address: '::',
+2026-09-29T11:02:53:   port: 5000
+2026-09-29T11:02:53: }
+2026-09-29T11:02:54: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:54:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:54:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:54:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:54:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:54:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:54:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:54:   code: 'EADDRINUSE',
+2026-09-29T11:02:54:   errno: -4091,
+2026-09-29T11:02:54:   syscall: 'listen',
+2026-09-29T11:02:54:   address: '::',
+2026-09-29T11:02:54:   port: 5000
+2026-09-29T11:02:54: }
+2026-09-29T11:02:55: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:55:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:55:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:55:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:55:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:55:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:55:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:55:   code: 'EADDRINUSE',
+2026-09-29T11:02:55:   errno: -4091,
+2026-09-29T11:02:55:   syscall: 'listen',
+2026-09-29T11:02:55:   address: '::',
+2026-09-29T11:02:55:   port: 5000
+2026-09-29T11:02:55: }
+2026-09-29T11:02:55: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:55:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:55:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:55:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:55:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:55:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:55:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:55:   code: 'EADDRINUSE',
+2026-09-29T11:02:55:   errno: -4091,
+2026-09-29T11:02:55:   syscall: 'listen',
+2026-09-29T11:02:55:   address: '::',
+2026-09-29T11:02:55:   port: 5000
+2026-09-29T11:02:55: }
+2026-09-29T11:02:56: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:56:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:56:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:56:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:56:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:56:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:56:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:56:   code: 'EADDRINUSE',
+2026-09-29T11:02:56:   errno: -4091,
+2026-09-29T11:02:56:   syscall: 'listen',
+2026-09-29T11:02:56:   address: '::',
+2026-09-29T11:02:56:   port: 5000
+2026-09-29T11:02:56: }
+2026-09-29T11:02:57: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:57:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:57:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:57:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:57:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:57:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:57:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:57:   code: 'EADDRINUSE',
+2026-09-29T11:02:57:   errno: -4091,
+2026-09-29T11:02:57:   syscall: 'listen',
+2026-09-29T11:02:57:   address: '::',
+2026-09-29T11:02:57:   port: 5000
+2026-09-29T11:02:57: }
+2026-09-29T11:02:59: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:02:59:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:02:59:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:02:59:     at Server.listen (node:net:2099:7)
+2026-09-29T11:02:59:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:02:59:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:02:59:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:02:59:   code: 'EADDRINUSE',
+2026-09-29T11:02:59:   errno: -4091,
+2026-09-29T11:02:59:   syscall: 'listen',
+2026-09-29T11:02:59:   address: '::',
+2026-09-29T11:02:59:   port: 5000
+2026-09-29T11:02:59: }
+2026-09-29T11:03:00: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:00:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:00:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:00:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:00:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:00:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:00:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:00:   code: 'EADDRINUSE',
+2026-09-29T11:03:00:   errno: -4091,
+2026-09-29T11:03:00:   syscall: 'listen',
+2026-09-29T11:03:00:   address: '::',
+2026-09-29T11:03:00:   port: 5000
+2026-09-29T11:03:00: }
+2026-09-29T11:03:02: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:02:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:02:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:02:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:02:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:02:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:02:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:02:   code: 'EADDRINUSE',
+2026-09-29T11:03:02:   errno: -4091,
+2026-09-29T11:03:02:   syscall: 'listen',
+2026-09-29T11:03:02:   address: '::',
+2026-09-29T11:03:02:   port: 5000
+2026-09-29T11:03:02: }
+2026-09-29T11:03:03: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:03:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:03:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:03:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:03:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:03:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:03:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:03:   code: 'EADDRINUSE',
+2026-09-29T11:03:03:   errno: -4091,
+2026-09-29T11:03:03:   syscall: 'listen',
+2026-09-29T11:03:03:   address: '::',
+2026-09-29T11:03:03:   port: 5000
+2026-09-29T11:03:03: }
+2026-09-29T11:03:04: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:04:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:04:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:04:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:04:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:04:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:04:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:04:   code: 'EADDRINUSE',
+2026-09-29T11:03:04:   errno: -4091,
+2026-09-29T11:03:04:   syscall: 'listen',
+2026-09-29T11:03:04:   address: '::',
+2026-09-29T11:03:04:   port: 5000
+2026-09-29T11:03:04: }
+2026-09-29T11:03:05: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:05:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:05:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:05:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:05:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:05:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:05:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:05:   code: 'EADDRINUSE',
+2026-09-29T11:03:05:   errno: -4091,
+2026-09-29T11:03:05:   syscall: 'listen',
+2026-09-29T11:03:05:   address: '::',
+2026-09-29T11:03:05:   port: 5000
+2026-09-29T11:03:05: }
+2026-09-29T11:03:06: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:06:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:06:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:06:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:06:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:06:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:06:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:06:   code: 'EADDRINUSE',
+2026-09-29T11:03:06:   errno: -4091,
+2026-09-29T11:03:06:   syscall: 'listen',
+2026-09-29T11:03:06:   address: '::',
+2026-09-29T11:03:06:   port: 5000
+2026-09-29T11:03:06: }
+2026-09-29T11:03:06: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:06:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:06:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:06:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:06:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:06:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:06:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:06:   code: 'EADDRINUSE',
+2026-09-29T11:03:06:   errno: -4091,
+2026-09-29T11:03:06:   syscall: 'listen',
+2026-09-29T11:03:06:   address: '::',
+2026-09-29T11:03:06:   port: 5000
+2026-09-29T11:03:06: }
+2026-09-29T11:03:07: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:07:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:07:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:07:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:07:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:07:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:07:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:07:   code: 'EADDRINUSE',
+2026-09-29T11:03:07:   errno: -4091,
+2026-09-29T11:03:07:   syscall: 'listen',
+2026-09-29T11:03:07:   address: '::',
+2026-09-29T11:03:07:   port: 5000
+2026-09-29T11:03:07: }
+2026-09-29T11:03:08: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:08:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:08:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:08:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:08:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:08:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:08:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:08:   code: 'EADDRINUSE',
+2026-09-29T11:03:08:   errno: -4091,
+2026-09-29T11:03:08:   syscall: 'listen',
+2026-09-29T11:03:08:   address: '::',
+2026-09-29T11:03:08:   port: 5000
+2026-09-29T11:03:08: }
+2026-09-29T11:03:09: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:09:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:09:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:09:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:09:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:09:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:09:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:09:   code: 'EADDRINUSE',
+2026-09-29T11:03:09:   errno: -4091,
+2026-09-29T11:03:09:   syscall: 'listen',
+2026-09-29T11:03:09:   address: '::',
+2026-09-29T11:03:09:   port: 5000
+2026-09-29T11:03:09: }
+2026-09-29T11:03:10: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:10:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:10:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:10:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:10:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:10:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:10:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:10:   code: 'EADDRINUSE',
+2026-09-29T11:03:10:   errno: -4091,
+2026-09-29T11:03:10:   syscall: 'listen',
+2026-09-29T11:03:10:   address: '::',
+2026-09-29T11:03:10:   port: 5000
+2026-09-29T11:03:10: }
+2026-09-29T11:03:11: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:11:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:11:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:11:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:11:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:11:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:11:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:11:   code: 'EADDRINUSE',
+2026-09-29T11:03:11:   errno: -4091,
+2026-09-29T11:03:11:   syscall: 'listen',
+2026-09-29T11:03:11:   address: '::',
+2026-09-29T11:03:11:   port: 5000
+2026-09-29T11:03:11: }
+2026-09-29T11:03:12: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:12:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:12:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:12:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:12:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:12:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:12:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:12:   code: 'EADDRINUSE',
+2026-09-29T11:03:12:   errno: -4091,
+2026-09-29T11:03:12:   syscall: 'listen',
+2026-09-29T11:03:12:   address: '::',
+2026-09-29T11:03:12:   port: 5000
+2026-09-29T11:03:12: }
+2026-09-29T11:03:13: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:13:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:13:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:13:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:13:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:13:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:13:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:13:   code: 'EADDRINUSE',
+2026-09-29T11:03:13:   errno: -4091,
+2026-09-29T11:03:13:   syscall: 'listen',
+2026-09-29T11:03:13:   address: '::',
+2026-09-29T11:03:13:   port: 5000
+2026-09-29T11:03:13: }
+2026-09-29T11:03:14: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:14:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:14:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:14:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:14:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:14:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:14:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:14:   code: 'EADDRINUSE',
+2026-09-29T11:03:14:   errno: -4091,
+2026-09-29T11:03:14:   syscall: 'listen',
+2026-09-29T11:03:14:   address: '::',
+2026-09-29T11:03:14:   port: 5000
+2026-09-29T11:03:14: }
+2026-09-29T11:03:15: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:15:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:15:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:15:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:15:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:15:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:15:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:15:   code: 'EADDRINUSE',
+2026-09-29T11:03:15:   errno: -4091,
+2026-09-29T11:03:15:   syscall: 'listen',
+2026-09-29T11:03:15:   address: '::',
+2026-09-29T11:03:15:   port: 5000
+2026-09-29T11:03:15: }
+2026-09-29T11:03:16: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:16:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:16:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:16:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:16:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:16:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:16:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:16:   code: 'EADDRINUSE',
+2026-09-29T11:03:16:   errno: -4091,
+2026-09-29T11:03:16:   syscall: 'listen',
+2026-09-29T11:03:16:   address: '::',
+2026-09-29T11:03:16:   port: 5000
+2026-09-29T11:03:16: }
+2026-09-29T11:03:18: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:18:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:18:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:18:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:18:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:18:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:18:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:18:   code: 'EADDRINUSE',
+2026-09-29T11:03:18:   errno: -4091,
+2026-09-29T11:03:18:   syscall: 'listen',
+2026-09-29T11:03:18:   address: '::',
+2026-09-29T11:03:18:   port: 5000
+2026-09-29T11:03:18: }
+2026-09-29T11:03:21: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:21:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:21:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:21:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:21:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:21:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:21:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:21:   code: 'EADDRINUSE',
+2026-09-29T11:03:21:   errno: -4091,
+2026-09-29T11:03:21:   syscall: 'listen',
+2026-09-29T11:03:21:   address: '::',
+2026-09-29T11:03:21:   port: 5000
+2026-09-29T11:03:21: }
+2026-09-29T11:03:25: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:25:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:25:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:25:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:25:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:25:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:25:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:25:   code: 'EADDRINUSE',
+2026-09-29T11:03:25:   errno: -4091,
+2026-09-29T11:03:25:   syscall: 'listen',
+2026-09-29T11:03:25:   address: '::',
+2026-09-29T11:03:25:   port: 5000
+2026-09-29T11:03:25: }
+2026-09-29T11:03:29: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:29:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:29:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:29:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:29:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:29:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:29:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:29:   code: 'EADDRINUSE',
+2026-09-29T11:03:29:   errno: -4091,
+2026-09-29T11:03:29:   syscall: 'listen',
+2026-09-29T11:03:29:   address: '::',
+2026-09-29T11:03:29:   port: 5000
+2026-09-29T11:03:29: }
+2026-09-29T11:03:31: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:31:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:31:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:31:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:31:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:31:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:31:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:31:   code: 'EADDRINUSE',
+2026-09-29T11:03:31:   errno: -4091,
+2026-09-29T11:03:31:   syscall: 'listen',
+2026-09-29T11:03:31:   address: '::',
+2026-09-29T11:03:31:   port: 5000
+2026-09-29T11:03:31: }
+2026-09-29T11:03:33: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:33:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:33:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:33:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:33:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:33:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:33:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:33:   code: 'EADDRINUSE',
+2026-09-29T11:03:33:   errno: -4091,
+2026-09-29T11:03:33:   syscall: 'listen',
+2026-09-29T11:03:33:   address: '::',
+2026-09-29T11:03:33:   port: 5000
+2026-09-29T11:03:33: }
+2026-09-29T11:03:35: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:35:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:35:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:35:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:35:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:35:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:35:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:35:   code: 'EADDRINUSE',
+2026-09-29T11:03:35:   errno: -4091,
+2026-09-29T11:03:35:   syscall: 'listen',
+2026-09-29T11:03:35:   address: '::',
+2026-09-29T11:03:35:   port: 5000
+2026-09-29T11:03:35: }
+2026-09-29T11:03:37: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:37:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:37:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:37:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:37:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:37:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:37:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:37:   code: 'EADDRINUSE',
+2026-09-29T11:03:37:   errno: -4091,
+2026-09-29T11:03:37:   syscall: 'listen',
+2026-09-29T11:03:37:   address: '::',
+2026-09-29T11:03:37:   port: 5000
+2026-09-29T11:03:37: }
+2026-09-29T11:03:39: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:39:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:39:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:39:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:39:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:39:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:39:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:39:   code: 'EADDRINUSE',
+2026-09-29T11:03:39:   errno: -4091,
+2026-09-29T11:03:39:   syscall: 'listen',
+2026-09-29T11:03:39:   address: '::',
+2026-09-29T11:03:39:   port: 5000
+2026-09-29T11:03:39: }
+2026-09-29T11:03:40: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:40:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:40:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:40:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:40:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:40:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:40:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:40:   code: 'EADDRINUSE',
+2026-09-29T11:03:40:   errno: -4091,
+2026-09-29T11:03:40:   syscall: 'listen',
+2026-09-29T11:03:40:   address: '::',
+2026-09-29T11:03:40:   port: 5000
+2026-09-29T11:03:40: }
+2026-09-29T11:03:42: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:42:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:42:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:42:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:42:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:42:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:42:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:42:   code: 'EADDRINUSE',
+2026-09-29T11:03:42:   errno: -4091,
+2026-09-29T11:03:42:   syscall: 'listen',
+2026-09-29T11:03:42:   address: '::',
+2026-09-29T11:03:42:   port: 5000
+2026-09-29T11:03:42: }
+2026-09-29T11:03:43: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:43:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:43:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:43:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:43:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:43:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:43:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:43:   code: 'EADDRINUSE',
+2026-09-29T11:03:43:   errno: -4091,
+2026-09-29T11:03:43:   syscall: 'listen',
+2026-09-29T11:03:43:   address: '::',
+2026-09-29T11:03:43:   port: 5000
+2026-09-29T11:03:43: }
+2026-09-29T11:03:45: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:45:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:45:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:45:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:45:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:45:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:45:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:45:   code: 'EADDRINUSE',
+2026-09-29T11:03:45:   errno: -4091,
+2026-09-29T11:03:45:   syscall: 'listen',
+2026-09-29T11:03:45:   address: '::',
+2026-09-29T11:03:45:   port: 5000
+2026-09-29T11:03:45: }
+2026-09-29T11:03:46: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:46:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:46:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:46:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:46:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:46:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:46:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:46:   code: 'EADDRINUSE',
+2026-09-29T11:03:46:   errno: -4091,
+2026-09-29T11:03:46:   syscall: 'listen',
+2026-09-29T11:03:46:   address: '::',
+2026-09-29T11:03:46:   port: 5000
+2026-09-29T11:03:46: }
+2026-09-29T11:03:48: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:48:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:48:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:48:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:48:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:48:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:48:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:48:   code: 'EADDRINUSE',
+2026-09-29T11:03:48:   errno: -4091,
+2026-09-29T11:03:48:   syscall: 'listen',
+2026-09-29T11:03:48:   address: '::',
+2026-09-29T11:03:48:   port: 5000
+2026-09-29T11:03:48: }
+2026-09-29T11:03:49: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:49:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:49:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:49:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:49:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:49:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:49:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:49:   code: 'EADDRINUSE',
+2026-09-29T11:03:49:   errno: -4091,
+2026-09-29T11:03:49:   syscall: 'listen',
+2026-09-29T11:03:49:   address: '::',
+2026-09-29T11:03:49:   port: 5000
+2026-09-29T11:03:49: }
+2026-09-29T11:03:50: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:50:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:50:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:50:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:50:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:50:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:50:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:50:   code: 'EADDRINUSE',
+2026-09-29T11:03:50:   errno: -4091,
+2026-09-29T11:03:50:   syscall: 'listen',
+2026-09-29T11:03:50:   address: '::',
+2026-09-29T11:03:50:   port: 5000
+2026-09-29T11:03:50: }
+2026-09-29T11:03:52: Error: listen EADDRINUSE: address already in use :::5000
+2026-09-29T11:03:52:     at Server.setupListenHandle [as _listen2] (node:net:1937:16)
+2026-09-29T11:03:52:     at listenInCluster (node:net:1994:12)
+2026-09-29T11:03:52:     at Server.listen (node:net:2099:7)
+2026-09-29T11:03:52:     at file:///E:/reactlive/gtymmanagement/backend/src/server.js:68:12
+2026-09-29T11:03:52:     at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+2026-09-29T11:03:52:     at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26) {
+2026-09-29T11:03:52:   code: 'EADDRINUSE',
+2026-09-29T11:03:52:   errno: -4091,
+2026-09-29T11:03:52:   syscall: 'listen',
+2026-09-29T11:03:52:   address: '::',
+2026-09-29T11:03:52:   port: 5000
+2026-09-29T11:03:52: }
