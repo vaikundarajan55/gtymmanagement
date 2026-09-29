@@ -1,0 +1,1 @@
+var e=`http://localhost:5000/api`,t=`http://localhost:5000`,n=new URL(e,window.location.origin).origin,r=e=>e&&e.startsWith(`/uploads/`)?`${n}${e}`:e||``;export{r as n,t};

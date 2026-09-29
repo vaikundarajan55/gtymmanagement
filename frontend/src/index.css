@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* { box-sizing: border-box; }
+body { font-family: 'Inter', sans-serif; background: #f4f7fb; color: #0f172a; margin: 0; }
+h1,h2,h3,h4 { font-family: 'Space Grotesk', sans-serif; }
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: #eef2f7; }
+::-webkit-scrollbar-thumb { background: #c5cfdc; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+@layer components {
+  /* Surfaces */
+  .glass { @apply bg-white/90 backdrop-blur-xl border border-slate-200 shadow-xl; }
+  .card { @apply bg-white border border-slate-200/80 rounded-2xl p-6 shadow-[0_4px_24px_rgba(15,23,42,0.05)]; }
+  /* Blue → teal → green stripe along the top edge */
+  .card-accent { @apply relative overflow-hidden; }
+  .card-accent::before { content: ''; @apply absolute inset-x-0 top-0 h-1 bg-gradient-to-r from-blue-600 via-cyan-500 to-emerald-500; }
+
+  .brand-gradient { @apply bg-gradient-to-r from-blue-600 via-cyan-500 to-emerald-500; }
+  .text-gradient { @apply bg-gradient-to-r from-blue-600 via-cyan-500 to-emerald-500 bg-clip-text text-transparent; }
+
+  /* Buttons */
+  .btn-primary { @apply inline-flex items-center justify-center gap-2 bg-gradient-to-r from-blue-600 to-cyan-500 text-white font-semibold px-5 py-2.5 rounded-xl shadow-lg shadow-cyan-500/25 hover:shadow-cyan-500/40 hover:brightness-110 transition-all duration-200 active:scale-95; }
+  .btn-secondary { @apply inline-flex items-center justify-center gap-2 bg-white text-slate-700 font-semibold px-5 py-2.5 rounded-xl border border-slate-200 hover:border-cyan-400 hover:text-cyan-700 transition-all duration-200; }
+  .btn-danger { @apply inline-flex items-center justify-center gap-2 bg-gradient-to-r from-rose-500 to-red-600 text-white font-semibold px-5 py-2.5 rounded-xl shadow-lg shadow-rose-500/25 hover:brightness-110 transition-all duration-200; }
+
+  /* Square gradient icon buttons (table actions) */
+  .icon-btn { @apply w-9 h-9 inline-flex items-center justify-center rounded-xl text-white shadow-md transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg active:scale-95; }
+  .icon-btn-view { @apply icon-btn bg-gradient-to-br from-cyan-400 to-teal-600 shadow-cyan-500/30; }
+  .icon-btn-edit { @apply icon-btn bg-gradient-to-br from-blue-500 to-cyan-500 shadow-blue-500/30; }
+  .icon-btn-delete { @apply icon-btn bg-gradient-to-br from-rose-400 to-red-600 shadow-rose-500/30; }
+
+  .input-field { @apply bg-white border border-slate-200 text-slate-800 placeholder-slate-400 rounded-xl px-4 py-2.5 w-full focus:outline-none focus:border-cyan-500 focus:ring-4 focus:ring-cyan-500/15 transition-colors; }
+
+  /* Outlined pill badges */
+  .badge { @apply inline-flex items-center gap-1 whitespace-nowrap rounded-full border px-2.5 py-0.5 text-xs font-semibold capitalize; }
+  .badge-success { @apply badge bg-emerald-50 border-emerald-300 text-emerald-700; }
+  .badge-danger { @apply badge bg-rose-50 border-rose-300 text-rose-700; }
+  .badge-warn { @apply badge bg-amber-50 border-amber-300 text-amber-700; }
+  .badge-info { @apply badge bg-blue-50 border-blue-300 text-blue-700; }
+  .badge-neutral { @apply badge bg-slate-50 border-slate-300 text-slate-600; }
+  .badge-violet { @apply badge bg-violet-50 border-violet-300 text-violet-700; }
+
+  /* Gradient table header */
+  .th-gradient { @apply bg-gradient-to-r from-blue-600 via-cyan-500 to-emerald-600; }
+  .th-cell { @apply px-4 py-4 text-left text-xs font-bold text-white uppercase tracking-wider whitespace-nowrap; }
+
+  .avatar { @apply rounded-full flex items-center justify-center font-bold text-white flex-shrink-0 bg-gradient-to-br from-blue-600 to-cyan-500; }
+
+  .section-eyebrow { @apply inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.2em] text-cyan-600; }
+}
+
+/* Login soap bubbles: rise from below the bottom edge to above the top edge, swaying side to side */
+@keyframes bubble-rise {
+  0%   { transform: translate3d(0, 0, 0) scale(0.7); opacity: 0; }
+  8%   { opacity: 1; }
+  25%  { transform: translate3d(18px, -28vh, 0) scale(0.85); }
+  50%  { transform: translate3d(-14px, -58vh, 0) scale(1); }
+  75%  { transform: translate3d(16px, -88vh, 0) scale(1.05); }
+  92%  { opacity: 1; }
+  100% { transform: translate3d(-10px, calc(-100vh - 160px), 0) scale(1.1); opacity: 0; }
+}
+.bubble-rise { animation: bubble-rise linear infinite; will-change: transform; }
+
+@keyframes bubble-shimmer { to { transform: rotate(360deg); } }
+.bubble-shimmer { animation: bubble-shimmer 6s linear infinite; }
