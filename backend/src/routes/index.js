@@ -14,6 +14,7 @@ import bookingRoutes from './booking.routes.js';
 import customerRoutes from './customer.routes.js';
 import membershipRoutes from './membership.routes.js';
 import bannerRoutes from './banner.routes.js';
+import reportRoutes from './report.routes.js';
 
 // Mounted at /api. Each module owns its own route file; access rules live next to each route.
 const router = Router();
@@ -33,5 +34,6 @@ router.use('/bookings', bookingRoutes);
 router.use('/customer', customerRoutes);
 router.use('/memberships', membershipRoutes);
 router.use('/banners', bannerRoutes);
+router.use('/reports', reportRoutes);
 
 export default router;

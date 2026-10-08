@@ -18,6 +18,7 @@ const adminRoutes = [
       { path: 'orders',          ...page(() => import('../pages/admin/Orders')) },
       { path: 'birthdays',       ...page(() => import('../pages/admin/Birthdays')) },
       { path: 'plan-completed',  ...page(() => import('../pages/admin/PlanCompleted')) },
+      { path: 'reports',         ...page(() => import('../pages/admin/Reports')) },
 
       // Website content
       { path: 'banners',         ...page(() => import('../pages/admin/Banners')) },

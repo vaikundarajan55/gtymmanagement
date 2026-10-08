@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import {
   LayoutDashboard, Users, Dumbbell, CreditCard, ShoppingBag,
   PartyPopper, MessageSquare, CircleHelp, Lock, LogOut, X, Zap, Globe,
-  CalendarCheck, CalendarDays, CalendarX2, Building2, GalleryHorizontal
+  CalendarCheck, CalendarDays, CalendarX2, Building2, GalleryHorizontal, FileText
 } from 'lucide-react';
 import { logout } from '../../store/slices/authSlice';
 import { toggleSidebar } from '../../store/slices/uiSlice';
@@ -19,6 +19,8 @@ const NAV = [
   { to: '/admin/orders', icon: ShoppingBag, label: 'Orders' },
   { to: '/admin/birthdays', icon: PartyPopper, label: 'Birthdays' },
   { to: '/admin/plan-completed', icon: CalendarX2, label: 'Plan Completed' },
+  { section: 'Reports' },
+  { to: '/admin/reports', icon: FileText, label: 'Admin Report' },
   { section: 'Online Booking' },
   { to: '/admin/bookings', icon: CalendarCheck, label: 'Bookings' },
   { to: '/admin/classes', icon: CalendarDays, label: 'Class Master' },
